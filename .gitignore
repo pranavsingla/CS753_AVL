@@ -1,2 +1,3 @@
 fairseq/
-
+avhubert/base_lrs3_30h.pt
+avhubert/__pycache__/
