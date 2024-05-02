@@ -1,30 +1,7 @@
 # CS753_AVL
 Implementation of AVHuBERT Model for Hacker Role of CS753 course
 
-@article{shi2022avhubert,
-    author  = {Bowen Shi and Wei-Ning Hsu and Kushal Lakhotia and Abdelrahman Mohamed},
-    title = {Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction},
-    journal = {arXiv preprint arXiv:2201.02184}
-    year = {2022}
-}
-
-@article{shi2022avsr,
-    author  = {Bowen Shi and Wei-Ning Hsu and Abdelrahman Mohamed},
-    title = {Robust Self-Supervised Audio-Visual Speech Recognition},
-    journal = {arXiv preprint arXiv:2201.01763}
-    year = {2022}
-}
-# AV-HuBERT (Audio-Visual Hidden Unit BERT)
-[Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://arxiv.org/abs/2201.02184)
-
-[Robust Self-Supervised Audio-Visual Speech Recognition](https://arxiv.org/abs/2201.01763)
-
-![lip-reading](assets/lipreading.gif)
-
-## Introduction
-AV-HuBERT is a self-supervised representation learning framework for audio-visual speech. It achieves state-of-the-art results in lip reading, ASR and audio-visual speech recognition on the LRS3 audio-visual speech benchmark.
-
-If you find AV-HuBERT useful in your research, please use the following BibTeX entry for citation.
+Citation.
 ```BibTeX
 @article{shi2022avhubert,
     author  = {Bowen Shi and Wei-Ning Hsu and Kushal Lakhotia and Abdelrahman Mohamed},
@@ -40,6 +17,16 @@ If you find AV-HuBERT useful in your research, please use the following BibTeX e
     year = {2022}
 }
 ```
+
+# AV-HuBERT (Audio-Visual Hidden Unit BERT)
+[Learning Audio-Visual Speech Representation by Masked Multimodal Cluster Prediction](https://arxiv.org/abs/2201.02184)
+
+[Robust Self-Supervised Audio-Visual Speech Recognition](https://arxiv.org/abs/2201.01763)
+
+![lip-reading](assets/lipreading.gif)
+
+## Introduction
+AV-HuBERT is a self-supervised representation learning framework for audio-visual speech. It achieves state-of-the-art results in lip reading, ASR and audio-visual speech recognition on the LRS3 audio-visual speech benchmark.
 
 ## License
 
