@@ -1,6 +1,6 @@
 # CS753_AVL
 Implementation of AVHuBERT Model for Hacker Role of CS753 course. 
-## NOTE: Please run the colab/jupyter notebook avhubert_vsr_lipReading_demo.ipynb to run inference of the AV_HuBERT model on downstream task of Lip Reading. It also shows feature extraction. For MAC/Windowa: simply press the following key combination after uploading the python notebook to colab: CMD/Ctrl+F9
+## NOTE: Please run the colab/jupyter notebook avhubert_vsr_lipReading_demo.ipynb to run inference of the AV_HuBERT model on downstream task of Lip Reading. It also shows feature extraction. For MAC/Windows: simply press the following key combination after uploading the python notebook to colab: CMD/Ctrl+F9
 
 Citation.
 ```BibTeX
